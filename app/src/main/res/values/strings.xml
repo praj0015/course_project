@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learning_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <style name="Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text">
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
